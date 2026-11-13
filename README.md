@@ -9,17 +9,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Savvy](https://apps.unisavvy.net/)
 
-- 🌱 I’m currently learning **TURI, Electron**
-
-- 👯 I’m looking to collaborate on [AI Hospital System](https://www.foreseemed.com/artificial-intelligence-in-healthcare)
-
-- 🤝 I’m looking for help with [BynausAI](https://www.bynaus.ai/)
-
-- 💬 Ask me about **React, Vue, Next, Nuxt, React Native**
-
-- 📫 How to reach me **ausdemick@gmail.com**
 
 <br/>
 <br/>
